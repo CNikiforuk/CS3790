@@ -1,0 +1,17 @@
+Author: Carlos Nikiforuk
+Assignment #2
+Date: Oct 31, 2014
+
+Description: Reader Writer solution. Random number of readers and writers created, who sleep for a time.
+
+
+How to use the program:
+1. "make" to compile the program.
+2. Expected Use: ./ass2
+
+
+Additional Information:
+
+-A random number of threads are created, some of which will be readers, and some writers. You may have to execute multiple times to see how the mutex works fully.
+
+-A thread ID is used to identify each thread, I'm not sure as to the usefulness the numbers beyond that, they are the pthread object returned by pthread_self(), cast as an int.

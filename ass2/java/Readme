@@ -1,0 +1,15 @@
+Author: Carlos Nikiforuk
+Assignment #2
+Date: Oct 31, 2014
+
+Description: Reader Writer solution. Random number of readers and writers created, who sleep for a time.
+
+
+How to use the program:
+1. Compile source code or run the included jar file. (you may have to chmod +x the jar file)
+2. Expected Use: ./readerwriter.jar
+
+Additional Information:
+Written using Netbeans 8.0.1.
+
+-A random number of threads are created, some of which will be readers, and some writers. You may have to execute multiple times to see how the mutex fully works.

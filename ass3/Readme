@@ -1,0 +1,19 @@
+Author: Carlos Nikiforuk
+Assignment #3
+Date: Nov 19, 2014
+
+Description: Memory simulation. Random size and duration requests created.
+
+
+How to use the program:
+1. "make" to compile the program.
+2. Expected Use: ./ass3 <choice> <rand seed>
+
+Choice 0 is first fit 
+Choice 1 is best fit
+Choice 2 is worst fit
+
+
+Additional Information:
+
+-If no seed is given it will be determined randomly.

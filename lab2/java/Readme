@@ -1,0 +1,15 @@
+Author: Carlos Nikiforuk
+Lab Assignment #2
+Date: Oct 15, 2014
+
+Description: Program for using multiple threads to find prime numbers.
+
+How to use the program:
+1. Exectuable jar is included. (I tried a makefile, Note below)
+2. Expected Use: java -jar "primethread.jar" <num primes> <num threads>
+
+Additional information:
+Written using Netbeans 8.0.1.
+
+NOTICE: I had no idea how to compile this properly. I created a make file and was able to make the .class files and .jar, but kept getting class problems when I tried running it, even though my Main-Class was set in my manifest file. I included the working executable jar created by netbeans, and the source code.
+

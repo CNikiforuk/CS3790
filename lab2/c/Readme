@@ -1,0 +1,12 @@
+Author: Carlos Nikiforuk
+Lab Assignment #2
+Date: Oct 15, 2014
+
+Description: Program for using multiple threads to find prime numbers.
+
+How to use the program:
+1. "make" to compile the program.
+2. Expected Use: ./lab2 <num primes> <num threads>
+
+Additional Information:
+
