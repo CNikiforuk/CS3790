@@ -1,0 +1,14 @@
+Author: Carlos Nikiforuk
+Assignment #2
+Date: Oct 31, 2014
+
+Description: Parent monitor program. Forks a child and executes a script specified by user input.
+
+How to use the program:
+1. "make" to compile the program.
+2. Expected Use: ./ass1 <script>
+
+
+Additional Information:
+
+-Tested script was repeat.sh, which takes 1 parameter of a string to repeatedly output.
